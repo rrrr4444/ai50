@@ -1,0 +1,430 @@
+board: (1, 3, 5, 7)  +  action: (0, 1)  =  q_value: 4.770265012517467e-05
+
+board: (0, 3, 5, 7)  +  action: (1, 2)  =  q_value: 7.302921264725702e-05
+
+board: (0, 1, 5, 7)  +  action: (3, 2)  =  q_value: 0.0003172295593293622
+
+board: (0, 1, 5, 5)  +  action: (3, 2)  =  q_value: 0.00039897030612633826
+
+board: (0, 1, 5, 3)  +  action: (3, 2)  =  q_value: -0.009785155412575935
+
+board: (0, 1, 5, 1)  +  action: (3, 1)  =  q_value: -0.09688231285603252
+
+board: (0, 1, 5, 0)  +  action: (2, 1)  =  q_value: -0.099147033666668
+
+board: (0, 1, 4, 0)  +  action: (2, 1)  =  q_value: -0.07499999998835846
+
+board: (0, 1, 0, 0)  +  action: (1, 1)  =  q_value: -1.0
+
+board: (0, 1, 3, 0)  +  action: (2, 3)  =  q_value: 0.9999999999997726
+
+board: (0, 1, 4, 0)  +  action: (1, 1)  =  q_value: -0.025
+
+board: (0, 0, 1, 0)  +  action: (2, 1)  =  q_value: -1.0
+
+board: (0, 0, 4, 0)  +  action: (2, 3)  =  q_value: 0.9998779296875
+
+board: (0, 1, 4, 0)  +  action: (2, 3)  =  q_value: -0.037500000000000006
+
+board: (0, 1, 1, 0)  +  action: (1, 1)  =  q_value: 1.0
+
+board: (0, 1, 4, 0)  +  action: (2, 2)  =  q_value: -0.03125000000000001
+
+board: (0, 1, 2, 0)  +  action: (1, 1)  =  q_value: -0.08593711853027344
+
+board: (0, 0, 2, 0)  +  action: (2, 1)  =  q_value: 1.0
+
+board: (0, 1, 2, 0)  +  action: (2, 1)  =  q_value: -0.046875
+
+board: (0, 1, 2, 0)  +  action: (2, 2)  =  q_value: 0.9999999997671694
+
+board: (0, 1, 4, 0)  +  action: (2, 4)  =  q_value: 0.9999998807907104
+
+board: (0, 1, 5, 0)  +  action: (1, 1)  =  q_value: -0.0483245849609375
+
+board: (0, 0, 5, 0)  +  action: (2, 1)  =  q_value: -0.08707275390625
+
+board: (0, 0, 5, 0)  +  action: (2, 3)  =  q_value: -0.049218750000000006
+
+board: (0, 0, 3, 0)  +  action: (2, 3)  =  q_value: -0.9375
+
+board: (0, 0, 5, 0)  +  action: (2, 2)  =  q_value: -0.006909179687499989
+
+board: (0, 0, 3, 0)  +  action: (2, 1)  =  q_value: -0.049609375000000004
+
+board: (0, 0, 3, 0)  +  action: (2, 2)  =  q_value: 0.9999997615814209
+
+board: (0, 0, 5, 0)  +  action: (2, 5)  =  q_value: -0.5
+
+board: (0, 0, 5, 0)  +  action: (2, 4)  =  q_value: 0.998046875
+
+board: (0, 1, 5, 0)  +  action: (2, 3)  =  q_value: -0.0484375
+
+board: (0, 1, 5, 0)  +  action: (2, 2)  =  q_value: -0.049218750000000006
+
+board: (0, 1, 5, 0)  +  action: (2, 5)  =  q_value: 0.9999999999708962
+
+board: (0, 1, 5, 1)  +  action: (2, 1)  =  q_value: -0.0035374966263771058
+
+board: (0, 1, 4, 1)  +  action: (3, 1)  =  q_value: -0.09980389773845673
+
+board: (0, 1, 4, 1)  +  action: (2, 1)  =  q_value: -0.0007628417015075693
+
+board: (0, 1, 3, 1)  +  action: (3, 1)  =  q_value: -0.09373779296875001
+
+board: (0, 1, 3, 1)  +  action: (2, 1)  =  q_value: -0.0006566619873046879
+
+board: (0, 1, 2, 1)  +  action: (3, 1)  =  q_value: -0.09943828582762962
+
+board: (0, 1, 2, 1)  +  action: (1, 1)  =  q_value: -0.019140625
+
+board: (0, 0, 2, 1)  +  action: (3, 1)  =  q_value: -0.09999999999927241
+
+board: (0, 0, 2, 1)  +  action: (2, 1)  =  q_value: -0.049999809265136724
+
+board: (0, 0, 1, 1)  +  action: (3, 1)  =  q_value: 1.0
+
+board: (0, 0, 0, 1)  +  action: (3, 1)  =  q_value: -1.0
+
+board: (0, 0, 2, 1)  +  action: (2, 2)  =  q_value: 1.0
+
+board: (0, 1, 2, 1)  +  action: (2, 1)  =  q_value: 0.0999999999999958
+
+board: (0, 1, 1, 1)  +  action: (3, 1)  =  q_value: -0.1
+
+board: (0, 1, 1, 1)  +  action: (1, 1)  =  q_value: -0.1
+
+board: (0, 1, 1, 1)  +  action: (2, 1)  =  q_value: -0.1
+
+board: (0, 1, 0, 1)  +  action: (3, 1)  =  q_value: 1.0
+
+board: (0, 1, 3, 1)  +  action: (2, 3)  =  q_value: -0.04999961853027344
+
+board: (0, 1, 3, 1)  +  action: (2, 2)  =  q_value: 0.09999998410930809
+
+board: (0, 1, 4, 1)  +  action: (1, 1)  =  q_value: -0.015673828124999997
+
+board: (0, 0, 4, 1)  +  action: (3, 1)  =  q_value: -0.04999999403953553
+
+board: (0, 0, 4, 1)  +  action: (2, 1)  =  q_value: -0.015625000000000007
+
+board: (0, 0, 3, 1)  +  action: (3, 1)  =  q_value: -0.09374999962747098
+
+board: (0, 0, 3, 1)  +  action: (2, 3)  =  q_value: 0.9999999981373549
+
+board: (0, 0, 4, 1)  +  action: (2, 3)  =  q_value: -0.04999999850988388
+
+board: (0, 0, 4, 1)  +  action: (2, 2)  =  q_value: -0.043750000000000004
+
+board: (0, 0, 4, 1)  +  action: (2, 4)  =  q_value: 0.99951171875
+
+board: (0, 1, 4, 1)  +  action: (2, 3)  =  q_value: 0.09999999998415562
+
+board: (0, 1, 5, 1)  +  action: (1, 1)  =  q_value: -0.020507812499999993
+
+board: (0, 0, 5, 1)  +  action: (3, 1)  =  q_value: -0.049999999627470974
+
+board: (0, 0, 5, 1)  +  action: (2, 1)  =  q_value: -0.0484375
+
+board: (0, 0, 5, 1)  +  action: (2, 3)  =  q_value: -0.049218750000000006
+
+board: (0, 0, 5, 1)  +  action: (2, 2)  =  q_value: -0.049609375000000004
+
+board: (0, 0, 5, 1)  +  action: (2, 5)  =  q_value: 0.9375
+
+board: (0, 1, 5, 1)  +  action: (2, 3)  =  q_value: -0.003749998211860657
+
+board: (0, 1, 5, 1)  +  action: (2, 2)  =  q_value: -0.004374960660934449
+
+board: (0, 1, 5, 1)  +  action: (2, 5)  =  q_value: -0.04999999403953553
+
+board: (0, 1, 5, 1)  +  action: (2, 4)  =  q_value: 0.09999999999999756
+
+board: (0, 1, 5, 3)  +  action: (3, 3)  =  q_value: -0.04999999850988388
+
+board: (0, 1, 5, 3)  +  action: (3, 1)  =  q_value: -0.00023472965143611727
+
+board: (0, 1, 5, 2)  +  action: (3, 2)  =  q_value: -0.04686260712915099
+
+board: (0, 1, 5, 2)  +  action: (3, 1)  =  q_value: -0.0022753875970374796
+
+board: (0, 1, 5, 2)  +  action: (2, 1)  =  q_value: -0.00011229901345577355
+
+board: (0, 1, 4, 2)  +  action: (3, 2)  =  q_value: -0.09768066406240834
+
+board: (0, 1, 4, 2)  +  action: (3, 1)  =  q_value: -0.004921874886131264
+
+board: (0, 1, 4, 2)  +  action: (2, 1)  =  q_value: 0.012834014740721187
+
+board: (0, 1, 3, 2)  +  action: (3, 2)  =  q_value: -0.09999999997671694
+
+board: (0, 1, 3, 2)  +  action: (3, 1)  =  q_value: -0.009931178052228755
+
+board: (0, 1, 3, 2)  +  action: (2, 1)  =  q_value: -0.009827412485143357
+
+board: (0, 1, 2, 2)  +  action: (3, 2)  =  q_value: -0.09998776912689245
+
+board: (0, 1, 2, 2)  +  action: (3, 1)  =  q_value: -0.0022882076063990555
+
+board: (0, 1, 2, 2)  +  action: (2, 1)  =  q_value: -0.0024917600751022933
+
+board: (0, 1, 1, 2)  +  action: (3, 2)  =  q_value: -0.04999999999998864
+
+board: (0, 1, 1, 2)  +  action: (3, 1)  =  q_value: 0.09995098114012385
+
+board: (0, 1, 2, 2)  +  action: (2, 2)  =  q_value: -0.04999999999999965
+
+board: (0, 1, 0, 2)  +  action: (3, 2)  =  q_value: 0.9375
+
+board: (0, 1, 2, 2)  +  action: (1, 1)  =  q_value: 0.1
+
+board: (0, 0, 2, 2)  +  action: (3, 2)  =  q_value: -0.1
+
+board: (0, 0, 2, 2)  +  action: (3, 1)  =  q_value: -0.0999999995980005
+
+board: (0, 0, 2, 2)  +  action: (2, 1)  =  q_value: -0.09999999962747097
+
+board: (0, 0, 1, 2)  +  action: (3, 2)  =  q_value: 0.9999999998835847
+
+board: (0, 0, 0, 2)  +  action: (3, 2)  =  q_value: -0.9999995231628418
+
+board: (0, 0, 2, 2)  +  action: (2, 2)  =  q_value: -0.0999999650004611
+
+board: (0, 0, 0, 2)  +  action: (3, 1)  =  q_value: 1.0
+
+board: (0, 1, 3, 2)  +  action: (2, 3)  =  q_value: -0.04999999999999998
+
+board: (0, 1, 3, 2)  +  action: (2, 2)  =  q_value: -0.009921779628720429
+
+board: (0, 1, 3, 2)  +  action: (1, 1)  =  q_value: -0.009910869845623354
+
+board: (0, 0, 3, 2)  +  action: (3, 2)  =  q_value: -0.09932708740234375
+
+board: (0, 0, 3, 2)  +  action: (3, 1)  =  q_value: -0.049996948242187506
+
+board: (0, 0, 3, 2)  +  action: (2, 1)  =  q_value: 0.09999999999999996
+
+board: (0, 1, 5, 2)  +  action: (1, 1)  =  q_value: -0.0021753256767988215
+
+board: (0, 0, 5, 2)  +  action: (3, 2)  =  q_value: -0.09375
+
+board: (0, 0, 5, 2)  +  action: (3, 1)  =  q_value: -0.04999998807907105
+
+board: (0, 0, 5, 2)  +  action: (2, 1)  =  q_value: -0.00019655779004097013
+
+board: (0, 0, 4, 2)  +  action: (3, 2)  =  q_value: -0.096875
+
+board: (0, 0, 4, 2)  +  action: (3, 1)  =  q_value: -0.04999999403953553
+
+board: (0, 0, 4, 2)  +  action: (2, 1)  =  q_value: -0.004530923366546632
+
+board: (0, 0, 4, 2)  +  action: (2, 3)  =  q_value: -0.05
+
+board: (0, 0, 4, 2)  +  action: (2, 2)  =  q_value: 0.09999999999989756
+
+board: (0, 0, 5, 2)  +  action: (2, 3)  =  q_value: 0.0999999999883528
+
+board: (0, 1, 5, 2)  +  action: (2, 3)  =  q_value: -0.004843749999999988
+
+board: (0, 1, 5, 2)  +  action: (2, 2)  =  q_value: 0.01140642166236874
+
+board: (0, 1, 5, 3)  +  action: (2, 1)  =  q_value: -0.00030673954428479805
+
+board: (0, 1, 4, 3)  +  action: (3, 2)  =  q_value: -0.006541612109380463
+
+board: (0, 1, 4, 3)  +  action: (3, 3)  =  q_value: -0.05
+
+board: (0, 1, 4, 3)  +  action: (3, 1)  =  q_value: -0.0003739623992822879
+
+board: (0, 1, 4, 3)  +  action: (2, 1)  =  q_value: -6.611254668875645e-05
+
+board: (0, 1, 3, 3)  +  action: (3, 2)  =  q_value: -0.00749938964754687
+
+board: (0, 1, 3, 3)  +  action: (3, 3)  =  q_value: -0.05
+
+board: (0, 1, 3, 3)  +  action: (3, 1)  =  q_value: 0.055392932974973524
+
+board: (0, 1, 4, 3)  +  action: (1, 1)  =  q_value: -9.207779861803236e-05
+
+board: (0, 0, 4, 3)  +  action: (3, 2)  =  q_value: -0.09921874999989698
+
+board: (0, 0, 4, 3)  +  action: (3, 3)  =  q_value: -0.05
+
+board: (0, 0, 4, 3)  +  action: (3, 1)  =  q_value: -0.0049780314241070316
+
+board: (0, 0, 4, 3)  +  action: (2, 1)  =  q_value: 0.010702976242836674
+
+board: (0, 0, 3, 3)  +  action: (3, 2)  =  q_value: -0.09996337707270869
+
+board: (0, 0, 3, 3)  +  action: (3, 3)  =  q_value: -0.05
+
+board: (0, 0, 3, 3)  +  action: (3, 1)  =  q_value: -0.009977978505063621
+
+board: (0, 0, 3, 3)  +  action: (2, 1)  =  q_value: -0.006401035239400122
+
+board: (0, 0, 2, 3)  +  action: (3, 2)  =  q_value: -0.09975280799553725
+
+board: (0, 0, 2, 3)  +  action: (3, 3)  =  q_value: -0.05
+
+board: (0, 0, 2, 3)  +  action: (3, 1)  =  q_value: 0.1
+
+board: (0, 0, 3, 3)  +  action: (2, 3)  =  q_value: -0.04999999999999999
+
+board: (0, 0, 0, 3)  +  action: (3, 2)  =  q_value: 0.875
+
+board: (0, 0, 3, 3)  +  action: (2, 2)  =  q_value: -0.012524414435029038
+
+board: (0, 0, 1, 3)  +  action: (3, 2)  =  q_value: -0.05
+
+board: (0, 0, 1, 3)  +  action: (3, 1)  =  q_value: -0.05
+
+board: (0, 0, 1, 3)  +  action: (3, 3)  =  q_value: 0.75
+
+board: (0, 1, 4, 3)  +  action: (2, 3)  =  q_value: -0.004999999962747043
+
+board: (0, 1, 1, 3)  +  action: (3, 2)  =  q_value: 0.09960937499919212
+
+board: (0, 1, 4, 3)  +  action: (2, 2)  =  q_value: 0.009911838804076846
+
+board: (0, 1, 2, 3)  +  action: (3, 2)  =  q_value: -0.009516588348849997
+
+board: (0, 1, 2, 3)  +  action: (3, 3)  =  q_value: -0.05
+
+board: (0, 1, 2, 3)  +  action: (3, 1)  =  q_value: -0.009902321754930072
+
+board: (0, 1, 2, 3)  +  action: (2, 1)  =  q_value: -0.009921874999644729
+
+board: (0, 1, 2, 3)  +  action: (2, 2)  =  q_value: -0.02187500000291038
+
+board: (0, 1, 0, 3)  +  action: (3, 2)  =  q_value: -0.05
+
+board: (0, 1, 0, 3)  +  action: (3, 1)  =  q_value: -0.05
+
+board: (0, 1, 0, 3)  +  action: (1, 1)  =  q_value: -0.05
+
+board: (0, 1, 0, 3)  +  action: (3, 3)  =  q_value: 0.75
+
+board: (0, 1, 2, 3)  +  action: (1, 1)  =  q_value: -0.0065170898025368315
+
+board: (0, 1, 5, 3)  +  action: (1, 1)  =  q_value: -0.00023278105810949404
+
+board: (0, 0, 5, 3)  +  action: (3, 2)  =  q_value: -0.05
+
+board: (0, 0, 5, 3)  +  action: (3, 3)  =  q_value: -0.05
+
+board: (0, 0, 5, 3)  +  action: (3, 1)  =  q_value: -0.004995114508117347
+
+board: (0, 0, 5, 3)  +  action: (2, 1)  =  q_value: -0.00036446765203210674
+
+board: (0, 0, 5, 3)  +  action: (2, 3)  =  q_value: -0.00499643320213828
+
+board: (0, 0, 5, 3)  +  action: (2, 2)  =  q_value: 0.010022709591766207
+
+board: (0, 1, 5, 3)  +  action: (2, 3)  =  q_value: 0.009999999999996996
+
+board: (0, 1, 5, 5)  +  action: (3, 3)  =  q_value: -0.00031933136268727687
+
+board: (0, 1, 5, 5)  +  action: (3, 1)  =  q_value: 0.0006823459906970838
+
+board: (0, 1, 5, 4)  +  action: (3, 2)  =  q_value: -0.0004616759250356562
+
+board: (0, 1, 5, 4)  +  action: (3, 3)  =  q_value: -0.004999999999708943
+
+board: (0, 1, 5, 4)  +  action: (3, 1)  =  q_value: -0.00042528627029336623
+
+board: (0, 1, 5, 4)  +  action: (2, 1)  =  q_value: -5.728518661474369e-05
+
+board: (0, 1, 4, 4)  +  action: (3, 2)  =  q_value: 0.001157763407814314
+
+board: (0, 1, 4, 4)  +  action: (3, 3)  =  q_value: -0.004999999999708962
+
+board: (0, 1, 4, 4)  +  action: (3, 1)  =  q_value: -0.00042528627029336623
+
+board: (0, 1, 4, 4)  +  action: (2, 1)  =  q_value: -0.00043742370299464485
+
+board: (0, 1, 3, 4)  +  action: (3, 2)  =  q_value: 0.007460784912109376
+
+board: (0, 1, 4, 4)  +  action: (1, 1)  =  q_value: 0.0019524168414628853
+
+board: (0, 0, 4, 4)  +  action: (3, 2)  =  q_value: 0.0184613937701023
+
+board: (0, 0, 4, 4)  +  action: (3, 3)  =  q_value: -0.05
+
+board: (0, 0, 4, 4)  +  action: (3, 1)  =  q_value: -0.0009499272879116831
+
+board: (0, 0, 4, 4)  +  action: (2, 1)  =  q_value: 0.0005317832140915744
+
+board: (0, 0, 3, 4)  +  action: (3, 2)  =  q_value: 0.008211844322075359
+
+board: (0, 0, 3, 4)  +  action: (3, 3)  =  q_value: -0.05
+
+board: (0, 0, 3, 4)  +  action: (3, 1)  =  q_value: 0.010177154714463444
+
+board: (0, 0, 4, 4)  +  action: (2, 3)  =  q_value: -0.01861577145755293
+
+board: (0, 0, 1, 4)  +  action: (3, 2)  =  q_value: -0.08750000000000001
+
+board: (0, 0, 1, 4)  +  action: (3, 3)  =  q_value: -0.05
+
+board: (0, 0, 1, 4)  +  action: (3, 1)  =  q_value: -0.05
+
+board: (0, 0, 1, 4)  +  action: (2, 1)  =  q_value: -0.019921875000000075
+
+board: (0, 0, 0, 4)  +  action: (3, 2)  =  q_value: -0.07500000000000001
+
+board: (0, 0, 0, 4)  +  action: (3, 1)  =  q_value: -0.05
+
+board: (0, 0, 0, 4)  +  action: (3, 4)  =  q_value: -0.5
+
+board: (0, 0, 0, 4)  +  action: (3, 3)  =  q_value: 0.9375
+
+board: (0, 0, 1, 4)  +  action: (3, 4)  =  q_value: 0.5
+
+board: (0, 0, 4, 4)  +  action: (2, 2)  =  q_value: -0.004960632162256214
+
+board: (0, 0, 2, 4)  +  action: (3, 2)  =  q_value: 0.05
+
+board: (0, 0, 4, 4)  +  action: (3, 4)  =  q_value: -0.05
+
+board: (0, 0, 4, 4)  +  action: (2, 4)  =  q_value: -0.05
+
+board: (0, 1, 5, 4)  +  action: (1, 1)  =  q_value: 0.0024030986823624276
+
+board: (0, 0, 5, 4)  +  action: (3, 2)  =  q_value: -0.009417896639891059
+
+board: (0, 0, 5, 4)  +  action: (3, 3)  =  q_value: -0.05
+
+board: (0, 0, 5, 4)  +  action: (3, 1)  =  q_value: -0.00022471274456431674
+
+board: (0, 0, 5, 4)  +  action: (2, 1)  =  q_value: 0.007798913865156461
+
+board: (0, 1, 5, 4)  +  action: (2, 3)  =  q_value: -0.0004805460397726574
+
+board: (0, 1, 2, 4)  +  action: (3, 2)  =  q_value: -0.007851562348587322
+
+board: (0, 1, 2, 4)  +  action: (3, 3)  =  q_value: -0.004999999999999997
+
+board: (0, 1, 2, 4)  +  action: (3, 1)  =  q_value: 0.009843749999138252
+
+board: (0, 1, 5, 4)  +  action: (2, 2)  =  q_value: -0.0004891475354597737
+
+board: (0, 1, 5, 4)  +  action: (2, 5)  =  q_value: -0.01953125
+
+board: (0, 1, 0, 4)  +  action: (3, 2)  =  q_value: -0.05
+
+board: (0, 1, 0, 4)  +  action: (3, 3)  =  q_value: -0.05
+
+board: (0, 1, 0, 4)  +  action: (3, 1)  =  q_value: -0.05
+
+board: (0, 1, 0, 4)  +  action: (3, 4)  =  q_value: 0.5
+
+board: (0, 1, 5, 4)  +  action: (3, 4)  =  q_value: -0.05
+
+board: (0, 1, 5, 4)  +  action: (2, 4)  =  q_value: -0.002504901885987617
+
+board: (0, 1, 1, 4)  +  action: (3, 2)  =  q_value: -0.004999999999999999
+
+board: (0, 1, 1, 4)  +  action: (3, 3)  =  q_value: 0.05
+
+board: (0, 1, 5, 7)  +  action: (3, 3)  =  q_value: 0.00021245249976782965
+

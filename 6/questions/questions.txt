@@ -1,0 +1,13 @@
+What are the types of supervised learning?
+
+When was Python 3.0 released?
+
+How do neurons connect in a neural network?
+
+Who was Gerolamo Cardano?
+
+What indentation does Python use?
+
+What is the yield statement in Python?
+
+What is Text-to-speech used for?
